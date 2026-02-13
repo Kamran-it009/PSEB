@@ -21,7 +21,7 @@ Welcome to Python Programming!
 ```
 
 ### **Q2. Swap Two Variables**
-Write a Python program that takes two numbers as input from the user and swaps them.
+Write a Python program that takes two numbers in two variables and swaps them.
 
 #### **Example Input:**
 ```
@@ -35,7 +35,23 @@ First number: 10
 Second number: 5
 ```
 
-### **Q3. Convert Temperature from Celsius to Fahrenheit**
+### **Q3. Swap Two Variables**
+Write a Python program that takes two numbers in two variables and swaps them without using third variable.
+
+#### **Example Input:**
+```
+Enter first number: 5
+Enter second number: 10
+```
+#### **Expected Output:**
+```
+After swapping:
+First number: 10
+Second number: 5
+
+```
+
+### **Q4. Convert Temperature from Celsius to Fahrenheit**
 Write a Python program that converts a temperature from Celsius to Fahrenheit using the formula:
 
 **F = 9/5 * Celsius + 32**
