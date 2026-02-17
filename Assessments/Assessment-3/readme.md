@@ -4,7 +4,7 @@
 This assignment is designed to test your understanding of fundamental Python programming concepts, including printing, variables, input handling, type casting, and basic problem-solving skills. You will write Python programs for each question and verify that your output matches the expected results.
 
 ## Instructions
-1. Complete all the 6 questions in this assignment.
+1. Complete all the 4 questions in this assignment.
 2. Write clean and well-commented Python code.
 3. Test your code to ensure the output matches the expected results.
 4. Submit your solutions as a Jupyter Notebook (`.ipynb`) or (.py) file.
