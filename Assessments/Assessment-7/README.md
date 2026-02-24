@@ -44,7 +44,7 @@ Example:
 Print numbers from 1 to 20 but: - Skip multiples of 3. - Stop execution
 if number becomes greater than 15.
 
-### 12. Calculate factorial of a number using a `while` loop.
+### 11. Calculate factorial of a number using a `while` loop.
 
 ------------------------------------------------------------------------
 
